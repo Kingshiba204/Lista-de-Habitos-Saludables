@@ -1,0 +1,19 @@
+{
+  "name": "control-habitos",
+  "version": "1.0.0",
+  "description": "SPA para registrar y gestionar hábitos saludables - Evaluación TI2031",
+  "author": "Juan Herrera",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8"
+  }
+}
